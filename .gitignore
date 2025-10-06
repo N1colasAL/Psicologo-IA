@@ -1,0 +1,9 @@
+__pycache__/
+.streamlit/
+bin/
+etc/
+include/
+lib/
+share/
+chat_memory.pkl
+feedback_logs.txt
